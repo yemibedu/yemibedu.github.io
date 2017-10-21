@@ -1,13 +1,40 @@
 <html>
-<head>
-<title>Yemi Bedu</title>
-</head>
+  <head>
+    <title>Yemi Bedu</title>
+  </head>
 <body>
-<h1>Yemi Bedy</h1>
+<h1>Yemi Bedu</h1>
 <h2>Software Development</h2>
-<p>
+<ul>
+  <li>
+    HTML, CSS, Javascript
+  </li>
+  <li>
+    F#, F#, VB.Net
+  </li>
+  <li>
+    Ruby, Scheme, Python
+  </li>
+  <li>
+    C
+  </li>
+  </ul>
+<h2>
+Information
+</h2>
 <div>
-HTML, CSS, Javascript
+{% for post in site.posts %}
+<br />
+<h2>
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+</h2>
+<blockquote>
+<p>
+{{ post.subtitle }} 
+<!-- <time datetime="{{ post.date | date: '%Y-%m-%d' }}">({{ post.date | date: "%-d %B %Y" }})</time> -->
+</p>
+</blockquote>
+{% endfor %}
 </div>
 </p>
 </body>
