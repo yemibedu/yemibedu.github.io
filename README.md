@@ -5,8 +5,16 @@ Software Development
 
 HTML, CSS, Javascript
 
-F#, F#, VB.Net
+F#, C#, VB.Net, Dafny
 
-Ruby, Scheme, Python
+Java, Groovy
 
-C
+Scheme, Ruby, Racket, Python
+
+Rust, Nim, Zig, V, D, C, C++
+
+Haskell, Idris
+
+Assembly (Nasm), SmallTalk (Pharoah), Ocaml
+
+Io, Julia, Go, Dylan, Ada, Carp, Pony, Reason, Citrine, Beef, Min, SBCL, Tao3d
