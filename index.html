@@ -5,29 +5,41 @@
 <body>
 <h1>Yemi Bedu</h1>
 <h2>Software Development</h2>
-<ul>
+<div>
+  <ul>
   <li>
     HTML, CSS, Javascript
   </li>
   <li>
-    F#, F#, VB.Net
+    F#, C#, VB.Net, Dafny
   </li>
   <li>
-    Ruby, Scheme, Python
+  Java, Groovy
   </li>
   <li>
-    C
+  Scheme, Ruby, Racket, Python
+  </li>
+  <li>
+  Rust, Nim, Zig, V, D, C, C++
+  </li>
+  <li>
+  Haskell, Idris
+  </li>
+  <li>
+  Assembly (Nasm), SmallTalk (Pharoah), Ocaml
+  </li>
+  <li>
+  Io, Julia, Go, Dylan, Ada, Carp, Pony, Reason, Citrine, Beef, Min, SBCL, Tao3d
   </li>
   </ul>
-<h2>
-Information
-</h2>
+</div>
+<h2> Information </h2>
 <div>
 {% for post in site.posts %}
 <br />
-<h2>
+<h3>
 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-</h2>
+</h3>
 <blockquote>
 <p>
 {{ post.subtitle }} 
@@ -36,6 +48,5 @@ Information
 </blockquote>
 {% endfor %}
 </div>
-</p>
 </body>
 </html>
