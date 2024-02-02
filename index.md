@@ -26,3 +26,5 @@ title: Yemi Bedu
 ### ({{ post.date | date: "%-d %B %Y" }})
 
 {% endfor %}
+
+from markdown
