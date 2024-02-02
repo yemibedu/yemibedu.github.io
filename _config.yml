@@ -1,4 +1,8 @@
 # themes
+title: Yemi Bedu
+description: Yemi Bedu Software Development
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-midnight
