@@ -6,7 +6,7 @@ title: Yemi Bedu
 ## Software Development
 
 - HTML, CSS, Javascript
-- F#, C#, VB.Net, Dafny  </li>
+- F#, C#, VB.Net, Dafny
 - Java, Groovy
 - Scheme, Ruby, Racket, Python
 - Rust, Nim, Zig, V, D, C, C++
