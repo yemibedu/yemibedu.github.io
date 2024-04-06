@@ -5,14 +5,14 @@ title: Yemi Bedu
 # Yemi Bedu
 ## Software Development
 
-- Algorithms ( Searching - Linear, Binary ) ( Sorting - Bubble, Merge, Quick, BFS, DFS )
-- Data Structures (structs, tuples) ( Array, List, Set, Queue) ( Stack, Heap ) (Tree, Trie, Graph, Hash ) ( Map, Table, Dictionary )
-- Concepts ( Exceptions, Errors) (Polymorphism, Pattern Matching)
-- Control Structures ( Blocks, Closures, Loops - ( for, while )iterators)
+- Algorithms ( Searching - Linear, Binary ) ( Sorting - Bubble, Merge, Quick) ( Traversing - BFS, DFS ) ( Merging, Inserting, Removing )
+- Data Structures ( Struct, Tuple ) ( Array, List, Set, Queue ) ( Stack, Heap ) (Tree, Trie, Graph, Hash ) ( Map, Table, Dictionary )
+- Concepts ( Exception, Error ) ( Polymorphism, Pattern Matching ) ( Concurrency, Parallelism )
+- Control Structures ( Block, Closure, Conditional, Loop , Iterator, Task, Channel, Thread )
 - Testing ( Unit, Integration, Code Coverage, Reporting )
-- Management ( Source Control - Git, Subversion ) ( Integration and Deployment - CI, CD, packaging, bundling, configuration )
+- Management ( Source Control - Git, Subversion ) ( Integration and Deployment - CI, CD, Packaging, Bundling, Configuration )
   
-- HTML, CSS, Javascript ( Jquery, knockoutjs )
+- HTML, CSS, Javascript ( Jquery, Knockoutjs )
 - F#, C#, VB.Net, Dafny
 - Java, Groovy
 - Scheme, Ruby, Racket, Python
@@ -25,7 +25,14 @@ title: Yemi Bedu
 
 - Dotnet Core, JVM
 - MS SQL
-- 
+- Nagios, Zabbix
+- Proxmox, XCP-NG, OpenVZ, oVirt, OpenVZ
+
+## Hardware Systems
+
+- Rackmount Server, Desktop Computer, Laptop System
+- Managed Swtich, IP Camera
+
   
 ## Information 
 
