@@ -14,9 +14,9 @@ title: Yemi Bedu
 - Management ( Source Control - Git, Subversion ) ( Integration and Deployment - CI, CD, Packaging, Bundling, Configuration )
   
 - HTML, CSS, Javascript ( Jquery, Knockoutjs )
-- F#, C#, VB.Net, Dafny
+- F#, C#, VB.Net, Dafny, Boo, Nemerle
 - Java, Groovy
-- Scheme, Ruby, Racket, Python
+- Scheme, Ruby, Racket, Lua, Python
 - Rust, Nim, Zig, V, D, C, C++
 - Haskell, Idris, Miranda
 - Assembly ( Nasm ), SmallTalk ( Pharoah ), Ocaml
@@ -28,6 +28,8 @@ title: Yemi Bedu
 - MS SQL
 - Nagios, Zabbix
 - Proxmox, XCP-NG, OpenVZ, oVirt, OpenVZ
+- ERP ( Syteline )
+- EAI ( EDI - WebMethods, Seeburger BIS )
 
 ## Hardware Systems
 
