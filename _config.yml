@@ -3,6 +3,6 @@ title: Yemi Bedu
 description: Yemi Bedu Professional Software Development and Computer Science Programming
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
-#theme: jekyll-theme-hacker
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 #theme: jekyll-theme-midnight
