@@ -5,6 +5,9 @@ title: Yemi Bedu
 # Yemi Bedu
 ## Software Development
 
+- Algorithms (Searching - Linear, Binary) (Sorting - Bubble, Merge, Quick, BFS, DFS)
+- Data Structures (Array, List, Set, Queue) (Stack, Heap) (Tree, Trie, Graph, Hash) (Map, Table, Dictionary)
+  
 - HTML, CSS, Javascript
 - F#, C#, VB.Net, Dafny
 - Java, Groovy
