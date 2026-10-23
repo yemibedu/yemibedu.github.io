@@ -11,7 +11,7 @@ Java, Groovy
 
 Scheme, Ruby, Racket, Python
 
-Rust, Nim, Zig, V, D, C, C++
+Rust, Nim, Zig, V, D, C, C++, Roc
 
 Haskell, Idris
 
